@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8bf0dcd-af71-4a01-b1ad-6ba2165a15af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/budget-nextjs/app/CSS/nav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/budget-nextjs/components/Container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/budget-nextjs/components/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/budget-nextjs/public/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/budget-nextjs/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/budget-nextjs/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/budget-spring-boot/src/main/java/com/budget/budgetspringboot/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/budget-spring-boot/src/main/java/com/budget/budgetspringboot/Controllers/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/app/CSS/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/budget-nextjs/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/budget-nextjs/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +61,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "20.5.1",
     "javascript.nodejs.core.library.typings.version": "20.5.0",
-    "last_opened_file_path": "C:/Users/truev/OneDrive/Home/Web Project/budget/src/main/java/budget/budget-application/src",
+    "last_opened_file_path": "C:/Users/truev/OneDrive/Home/Web Project/budget/budget-nextjs/public",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -65,14 +73,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\budget-nextjs\public" />
       <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\src\main\java\budget\budget-application\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\budget-nextjs\app\CSS" />
       <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\budget-spring-boot\src\main\java\" />
       <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\budget-spring-boot\src\main\java" />
       <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\src\main\java\nextjs\" />
       <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\src\main\java\budget\" />
-      <recent name="C:\Users\truev\OneDrive\Home\Web Project\budget\src\main\" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,7 +135,7 @@
       <workItem from="1691954416221" duration="182000" />
       <workItem from="1691954614342" duration="463000" />
       <workItem from="1691955095989" duration="9014000" />
-      <workItem from="1691967938973" duration="26367000" />
+      <workItem from="1691967938973" duration="38231000" />
     </task>
     <servers />
   </component>
