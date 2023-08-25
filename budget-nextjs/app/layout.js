@@ -12,8 +12,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
       <Navigation /> {/*imported from components folder, putting it here ensures it remains consistent through app*/}
-      {children} {/*Represents the content rendered in the rootLayout component (see the definition above).
-                    Allows you to nest other components and content in the shared layout.*/}
+
+      {/*{Children} represents the content rendered in the rootLayout component (see the function definition above).
+         Allows you to nest other components and content in the shared layout.*/}
+      {children}
+
       </body>
     </html>
   )

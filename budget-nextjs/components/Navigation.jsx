@@ -12,7 +12,7 @@ export const Navigation = () => {
         <div className={nav.navigationBar}>
             <div className={nav.logo}>
                 <a href="/">
-                    <Image src='./logo.png' alt="Logo" width={200} height={115}></Image>
+                    <Image src='./logo.png' alt="Logo for Morell's Mountain" width={250} height={150}></Image>
                 </a>
             </div>
             <ul>

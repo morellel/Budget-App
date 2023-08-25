@@ -1,0 +1,338 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Rent and Water",
+      "slug": "rent-water",
+      "frequency": "biweekly",
+      "date": [
+        "6",
+        "21"
+      ],
+      "description": "Monthly rent payment to Lakeside. Includes the water bill.",
+      "amount": 2300,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 2,
+      "name": "Electric",
+      "slug": "electric",
+      "frequency": "monthly",
+      "date": "6",
+      "description": "Monthly electric payment to Novec.",
+      "amount": 150,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 3,
+      "name": "Figo",
+      "slug": "figo",
+      "frequency": "monthly",
+      "date": "6",
+      "description": "Monthly payment to Figo for pet insurance.",
+      "amount": 54,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 4,
+      "name": "Geico",
+      "slug": "geico",
+      "frequency": "monthly",
+      "date": "21",
+      "description": "Monthly payment to Geico for car insurance.",
+      "amount": 400,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 5,
+      "name": "Car Payment",
+      "slug": "car-payment",
+      "frequency": "biweekly",
+      "date": [
+        "6",
+        "21"
+      ],
+      "description": "Monthly payment to Navy Federal Credit Union for Car Financing Loan.",
+      "amount": 640,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 6,
+      "name": "Internet",
+      "slug": "internet",
+      "frequency": "monthly",
+      "date": "14",
+      "description": "Monthly payment to Verizon for Internet.",
+      "amount": 80,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 7,
+      "name": "Phone",
+      "slug": "phone",
+      "frequency": "monthly",
+      "date": "25",
+      "description": "Monthly payment to Verizon for Phone.",
+      "amount": 75,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 8,
+      "name": "Student Loan",
+      "slug": "student-loan",
+      "frequency": "monthly",
+      "date": "21",
+      "description": "Monthly payment to Earnest for the refinanced Student Loan.",
+      "amount": 906,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 9,
+      "name": "Credit Cards",
+      "slug": "credit-cards",
+      "frequency": "biweekly",
+      "date": [
+        "6",
+        "21"
+      ],
+      "description": "Monthly payments to Apple Federal, Navy Federal, and Capital One for the credit card debt.",
+      "amount": 400,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 10,
+      "name": "Gunner",
+      "slug": "gunner",
+      "frequency": "monthly",
+      "date": "21",
+      "description": "Monthly payment to Affirm for the financed Gunner kennel.",
+      "amount": 77,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 11,
+      "name": "Food and Grocery",
+      "slug": "food-grocery",
+      "frequency": "biweekly",
+      "date": [
+        "6",
+        "21"
+      ],
+      "description": "Monthly food and grocery budget.",
+      "amount": 400,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 12,
+      "name": "Gas",
+      "slug": "gas",
+      "frequency": "biweekly",
+      "date": [
+        "6",
+        "21"
+      ],
+      "description": "Monthly gas budget.",
+      "amount": 300,
+      "bucket": 1,
+      "active": "y"
+    },
+    {
+      "id": 13,
+      "name": "Savings",
+      "slug": "savings",
+      "frequency": "monthly",
+      "date": "21",
+      "description": "Monthly savings budget.",
+      "amount": 50,
+      "bucket": 2,
+      "active": "y"
+    },
+    {
+      "id": 14,
+      "name": "Silver Eagle Group Membership",
+      "slug": "seg",
+      "frequency": "monthly",
+      "date": "12",
+      "description": "Monthly Silver Eagle Group Membership payment.",
+      "amount": 35,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 15,
+      "name": "Spotify",
+      "slug": "spotify",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly Spotify payment.",
+      "amount": 10,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 16,
+      "name": "Netflix",
+      "slug": "netflix",
+      "frequency": "monthly",
+      "date": "21",
+      "description": "Monthly Netflix payment.",
+      "amount": 7,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 17,
+      "name": "Brazilian Wax",
+      "slug": "brazilian",
+      "frequency": "monthly",
+      "date": "25",
+      "description": "Monthly brazilian wax tip.",
+      "amount": 15,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 18,
+      "name": "Simparica Trio",
+      "slug": "simparica-trio",
+      "frequency": "monthly",
+      "date": "25",
+      "description": "Monthly Simparica Trio prescription for Huck.",
+      "amount": 40,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 19,
+      "name": "Horse Donation",
+      "slug": "horses",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly donation to the horse rescue in Charlottesville.",
+      "amount": 20,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 20,
+      "name": "Church Donation",
+      "slug": "church",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly tithe to church.",
+      "amount": 10,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 21,
+      "name": "Amazon Prime",
+      "slug": "prime",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly payment to Amazon Prime.",
+      "amount": 15,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 22,
+      "name": "Peacock",
+      "slug": "peacock",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly payment to Peacock.",
+      "amount": 5,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 23,
+      "name": "Azure",
+      "slug": "azure",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to Microsoft for the Azure account.",
+      "amount": 15,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 24,
+      "name": "HBO Max",
+      "slug": "hbo",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to HBO.",
+      "amount": 10,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 25,
+      "name": "CCW Safe",
+      "slug": "ccwsafe",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to CCW Safe.",
+      "amount": 16,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 26,
+      "name": "PS+",
+      "slug": "ps-plus",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to Playstation for the PS+ Membership.",
+      "amount": 17,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 27,
+      "name": "Google Cloud",
+      "slug": "google",
+      "frequency": "monthly",
+      "date": "1",
+      "description": "Monthly payment to Google for photo storage.",
+      "amount": 2,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 28,
+      "name": "Planet Fitness",
+      "slug": "planet-fitness",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to Planet Fitness.",
+      "amount": 25,
+      "bucket": 3,
+      "active": "y"
+    },
+    {
+      "id": 29,
+      "name": "Fitbit",
+      "slug": "fitbit",
+      "frequency": "monthly",
+      "date": "15",
+      "description": "Monthly payment to Fitbit for Premium.",
+      "amount": 10,
+      "bucket": 3,
+      "active": "y"
+    }
+  ]
+}
